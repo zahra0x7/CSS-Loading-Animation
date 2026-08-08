@@ -4,6 +4,7 @@ A simple and responsive loading animation built with HTML and CSS.
 
 This was a small practice project focused on creating a smooth loading effect using CSS animations, animation delays, and responsive styling.
 
+
 ## ✨ Live 
 
 http://css-loading-animation.netlify.app/
